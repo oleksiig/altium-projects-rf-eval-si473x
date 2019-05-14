@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XGDHANDY
+DocumentUniqueId=OYBNXLLG
 
 [Document7]
 DocumentPath=..\..\libs\sch\ICs\Power\TLV733P.SchLib
@@ -191,23 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XBBRTGYJ
 
 [Document10]
-DocumentPath=..\..\libs\sch\ICs\CLK\Oscillator.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RDRIEQSI
-
-[Document11]
 DocumentPath=..\..\libs\sch\ICs\RF\Si473x.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLJCWQKJ
 
-[Document12]
+[Document11]
 DocumentPath=..\..\libs\sch\Connectors\TestPoint.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,6 +223,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXOSOUID
+
+[Document12]
+DocumentPath=..\..\libs\sch\General\leds.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VKRWYERR
+
+[Document13]
+DocumentPath=..\..\libs\sch\General\xtal.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LVAJNDRO
 
 [SearchPath1]
 Path=..\..\libs\*.*
